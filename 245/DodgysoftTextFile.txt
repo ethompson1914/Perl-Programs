@@ -1,0 +1,12 @@
+Welcome to the DodgySoft Technical Support System.
+Please tell us about your problem.
+We will assist you with any problem you might have.
+//
+crash,crashes	Well, it never crashes on our system. It must have something to do with your system. Tell me more about your configuration.
+mac	That's not a bug, it's a feature!
+windows	This is a known bug to do with the Windows operating system. Please report it to Microsoft. There is nothing we can do about this.
+//
+No other customer has ever complained about this before. What is your system configuration?
+Interesting, tell me more.
+//
+bye,exit
